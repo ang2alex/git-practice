@@ -12,3 +12,6 @@ export function subtract(a, b) {
 export function multiply(a, b) {
   return a * b
 }
+
+// Add extra comment #1
+// Add extra comment #2
